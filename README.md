@@ -1,6 +1,6 @@
 # What is Scrunkly?
 
-![Sprunki Phase 13](https://sprunkiscrunkly.com/sprunkiscrunkly.png "Sprunki Phase 13")
+![Scrunkly](https://sprunkiscrunkly.com/sprunkiscrunkly.png "Scrunkly")
 
 👉👉 Click to play: [Scrunkly](https://sprunkiscrunkly.com/ "Scrunkly")
 
